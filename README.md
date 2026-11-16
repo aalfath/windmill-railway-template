@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/windmill-3?utm_medium=integration&utm_source=button&utm_campaign=windmill)
+
 # Windmill on Railway
 
 Deploys [Windmill](https://www.windmill.dev) **v1.875.0**, the open-source platform that turns scripts (Python, TypeScript, Go, Bash, SQL and more) into workflows, scheduled jobs, webhooks and internal UIs, on [Railway](https://railway.com).
